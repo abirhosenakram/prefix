@@ -27,7 +27,7 @@ It automatically detects the most relevant file in your current directory and ex
 
 ---
 
-✅ Features
+## ✅ Features
 
 Run any tool or project with just one command
 
@@ -48,7 +48,7 @@ Scripts: Python (.py), Shell (.sh), JavaScript (.js), PHP (.php), Perl (.pl), Ru
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 For Termux
 
@@ -69,7 +69,7 @@ For Linux
 
 ---
 
-🛠 Usage
+## 🛠 Usage
 
 Go to any tool directory and type:
 
@@ -80,7 +80,7 @@ That's it — prefix will detect and run the appropriate file.
 
 ---
 
-🔍 Execution Priority
+## 🔍 Execution Priority
 
 1. run.sh
 
@@ -110,7 +110,7 @@ That's it — prefix will detect and run the appropriate file.
 
 ---
 
-✨ Example
+## ✨ Example
 
 Suppose you have a folder with this file:
 
@@ -128,16 +128,16 @@ python3 main.py
 
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-👤 Author
+## 👤 Author
 
-Abir Hosen Akram
+### Abir Hosen Akram
 GitHub: @abirhosenakram
 
 
