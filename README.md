@@ -53,17 +53,25 @@ Scripts: Python (.py), Shell (.sh), JavaScript (.js), PHP (.php), Perl (.pl), Ru
 For Termux
 
 `pkg update && pkg upgrade`
+
 `pkg install git`
+
 `git clone https://github.com/abirhosenakram/prefix.git`
+
 `cd prefix`
+
 `chmod +x prefix.sh`
+
 `cp prefix.sh $PREFIX/bin/run`
 
 For Linux
 
 `git clone https://github.com/abirhosenakram/prefix.git`
+
 `cd prefix`
+
 `chmod +x prefix.sh`
+
 `sudo cp prefix.sh /usr/local/bin/run`
 
 
@@ -119,11 +127,12 @@ main.py
 You just run:
 
 `cd my-tool`
+
 `run`
 
 It will automatically run:
 
-python3 main.py
+`python3 main.py`
 
 
 ---
