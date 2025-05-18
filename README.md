@@ -20,8 +20,7 @@
 **prefix** is a universal script runner designed to reduce command repetition.  
 Instead of typing `python main.py`, `bash start.sh`, or `node index.js` — just type:
 
-```bash
-run
+`run`
 
 It automatically detects the most relevant file in your current directory and executes it.
 
@@ -41,11 +40,9 @@ Executable binaries
 Scripts: Python (.py), Shell (.sh), JavaScript (.js), PHP (.php), Perl (.pl), Ruby (.rb)
 
 
-Lightweight & fast
-
-Works in Termux (Android) and Linux
-
-No sudo required for Termux
+•Lightweight & fast
+•Works in Termux (Android) and Linux
+•No sudo required for Termux
 
 
 
@@ -55,19 +52,19 @@ No sudo required for Termux
 
 For Termux
 
-pkg update && pkg upgrade
-pkg install git
-git clone https://github.com/abirhosenakram/prefix.git
-cd prefix
-chmod +x prefix.sh
-cp prefix.sh $PREFIX/bin/run
+`pkg update && pkg upgrade`
+`pkg install git`
+`git clone https://github.com/abirhosenakram/prefix.git`
+`cd prefix`
+`chmod +x prefix.sh`
+`cp prefix.sh $PREFIX/bin/run`
 
 For Linux
 
-git clone https://github.com/abirhosenakram/prefix.git
-cd prefix
-chmod +x prefix.sh
-sudo cp prefix.sh /usr/local/bin/run
+`git clone https://github.com/abirhosenakram/prefix.git`
+`cd prefix`
+`chmod +x prefix.sh`
+`sudo cp prefix.sh /usr/local/bin/run`
 
 
 ---
@@ -76,7 +73,7 @@ sudo cp prefix.sh /usr/local/bin/run
 
 Go to any tool directory and type:
 
-run
+`run`
 
 That's it — prefix will detect and run the appropriate file.
 
@@ -121,8 +118,8 @@ main.py
 
 You just run:
 
-cd my-tool
-run
+`cd my-tool`
+`run`
 
 It will automatically run:
 
