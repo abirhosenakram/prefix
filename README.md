@@ -20,7 +20,7 @@
 **prefix** is a universal script runner designed to reduce command repetition.  
 Instead of typing `python main.py`, `bash start.sh`, or `node index.js` — just type:
 
-`run`
+```run```
 
 It automatically detects the most relevant file in your current directory and executes it.
 
