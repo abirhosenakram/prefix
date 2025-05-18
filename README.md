@@ -37,7 +37,7 @@ run.sh (highest priority)
 
 Executable binaries
 
-Scripts: Python (.py), Shell (.sh), JavaScript (.js), PHP (.php), Perl (.pl), Ruby (.rb)
+**Scripts:** Python (.py), Shell (.sh), JavaScript (.js), PHP (.php), Perl (.pl), Ruby (.rb)
 
 
 •Lightweight & fast
